@@ -1,5 +1,5 @@
 # Stack 
-# Experiment 18 : - To study and implement Stack implementation using array.  Menu options - i) Push ii) Pop iii) Display iv) exit
+# Experiment 19 : - To study and implement Stack implementation using array.  Menu options - i) Push ii) Pop iii) Display iv) exit
 
 ## Aim: -
 To execute and run a menu style code which has different stack operations without using the stack header file
