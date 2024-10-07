@@ -145,8 +145,11 @@ Stack Operations Menu:
 2. Pop
 3. Display
 4. Exit
+
 Enter your choice: 1
+
 Enter the value to push: 3
+
 3 pushed onto the stack.
 
 ## Conclusion
